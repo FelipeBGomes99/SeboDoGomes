@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Dom Casmurro",
+    "Writer": {
+      "FullName": "Machado de Assis",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1839-06-21T00:00:00"
+    },
+    "ReleaseDate": "1899-01-01T00:00:00",
+    "Pages": 400,
+    "Publisher": "Companhia das Letras",
+    "IsAvailable": false
+  },
+  {
+    "Name": "Mem\u00F3rias P\u00F3stumas de Br\u00E1s Cubas",
+    "Writer": {
+      "FullName": "Machado de Assis",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1839-06-21T00:00:00"
+    },
+    "ReleaseDate": "1881-01-01T00:00:00",
+    "Pages": 350,
+    "Publisher": "Companhia das Letras",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Primo Bas\u00EDlio",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1859-01-01T00:00:00",
+    "Pages": 280,
+    "Publisher": "Editora Nacional",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Iracema",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1865-01-01T00:00:00",
+    "Pages": 200,
+    "Publisher": "Editora Nacional",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Senhora",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1875-01-01T00:00:00",
+    "Pages": 180,
+    "Publisher": "Editora Nacional",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Corti\u00E7o",
+    "Writer": {
+      "FullName": "Alu\u00EDsio Azevedo",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1857-04-14T00:00:00"
+    },
+    "ReleaseDate": "1890-01-01T00:00:00",
+    "Pages": 300,
+    "Publisher": "Livraria Francisco Alves",
+    "IsAvailable": true
+  },
+  {
+    "Name": "A Moreninha",
+    "Writer": {
+      "FullName": "Joaquim Manuel de Macedo",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1820-06-29T00:00:00"
+    },
+    "ReleaseDate": "1844-01-01T00:00:00",
+    "Pages": 220,
+    "Publisher": "Livraria Garnier",
+    "IsAvailable": true
+  },
+  {
+    "Name": "A Cartomante",
+    "Writer": {
+      "FullName": "Machado de Assis",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1839-06-21T00:00:00"
+    },
+    "ReleaseDate": "1889-01-01T00:00:00",
+    "Pages": 150,
+    "Publisher": "Companhia das Letras",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Guarani",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1857-01-01T00:00:00",
+    "Pages": 320,
+    "Publisher": "Livraria Jos\u00E9 do Patroc\u00EDnio",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Tempo e o Vento",
+    "Writer": {
+      "FullName": "Erico Verissimo",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1905-12-17T00:00:00"
+    },
+    "ReleaseDate": "1949-01-01T00:00:00",
+    "Pages": 800,
+    "Publisher": "Editora Globo",
+    "IsAvailable": true
+  },
+  {
+    "Name": "A Casa dos Budas Ditosos",
+    "Writer": {
+      "FullName": "Jorge Amado",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1912-08-10T00:00:00"
+    },
+    "ReleaseDate": "1999-01-01T00:00:00",
+    "Pages": 270,
+    "Publisher": "Editora Companhia das Letras",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Capit\u00E3es da Areia",
+    "Writer": {
+      "FullName": "Jorge Amado",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1912-08-10T00:00:00"
+    },
+    "ReleaseDate": "1937-01-01T00:00:00",
+    "Pages": 380,
+    "Publisher": "Livraria Jos\u00E9 Olympio",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Vidas Secas",
+    "Writer": {
+      "FullName": "Graciliano Ramos",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1892-10-27T00:00:00"
+    },
+    "ReleaseDate": "1938-01-01T00:00:00",
+    "Pages": 200,
+    "Publisher": "Editora Record",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Os Maias",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1888-01-01T00:00:00",
+    "Pages": 500,
+    "Publisher": "Livraria Lello",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Ateneu",
+    "Writer": {
+      "FullName": "Raul Pompeia",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1863-06-23T00:00:00"
+    },
+    "ReleaseDate": "1888-01-01T00:00:00",
+    "Pages": 320,
+    "Publisher": "Editora Garnier",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Soldado Pr\u00E1tico",
+    "Writer": {
+      "FullName": "Jos\u00E9 de Alencar",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1829-05-01T00:00:00"
+    },
+    "ReleaseDate": "1887-01-01T00:00:00",
+    "Pages": 330,
+    "Publisher": "Livraria Garnier",
+    "IsAvailable": true
+  },
+  {
+    "Name": "O Espiritismo e a Medicina",
+    "Writer": {
+      "FullName": "Carlos A. F. Pereira",
+      "Nacionality": "Brasileiro",
+      "BirthDay": "1880-04-10T00:00:00"
+    },
+    "ReleaseDate": "1905-01-01T00:00:00",
+    "Pages": 180,
+    "Publisher": "Editora Brasil",
+    "IsAvailable": true
+  },
+  {
+    "Name": "Ensaio Sobre a Cegueira",
+    "Writer": {
+      "FullName": "Jos\u00E9 Saramago",
+      "Nacionality": "Portugu\u00EAs",
+      "BirthDay": "1922-11-16T00:00:00"
+    },
+    "ReleaseDate": "1995-01-01T00:00:00",
+    "Pages": 500,
+    "Publisher": "Editora C\u00EDrculo de Leitores",
+    "IsAvailable": true
+  },
+  {
+    "Name": "A Revolu\u00E7\u00E3o dos Bichos",
+    "Writer": {
+      "FullName": "George Orwell",
+      "Nacionality": "Brit\u00E2nico",
+      "BirthDay": "1903-06-25T00:00:00"
+    },
+    "ReleaseDate": "1945-01-01T00:00:00",
+    "Pages": 120,
+    "Publisher": "Editora Record",
+    "IsAvailable": true
+  },
+  {
+    "Name": "1984",
+    "Writer": {
+      "FullName": "George Orwell",
+      "Nacionality": "Brit\u00E2nico",
+      "BirthDay": "1903-06-25T00:00:00"
+    },
+    "ReleaseDate": "1949-01-01T00:00:00",
+    "Pages": 300,
+    "Publisher": "Editora Seoman",
+    "IsAvailable": true
+  }
+]

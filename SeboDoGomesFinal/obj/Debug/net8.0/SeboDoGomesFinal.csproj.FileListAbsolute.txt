@@ -1,0 +1,17 @@
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\SeboDoGomesFinal.exe
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\SeboDoGomesFinal.deps.json
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\SeboDoGomesFinal.runtimeconfig.json
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\SeboDoGomesFinal.dll
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\SeboDoGomesFinal.pdb
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.csproj.AssemblyReference.cache
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.AssemblyInfoInputs.cache
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.AssemblyInfo.cs
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.csproj.CoreCompileInputs.cache
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGo.C90E8438.Up2Date
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.dll
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\refint\SeboDoGomesFinal.dll
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.pdb
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\SeboDoGomesFinal.genruntimeconfig.cache
+C:\Users\felip\Dev C#\GitHubProjects\SeboDoGomesFinal\SeboDoGomesFinal\obj\Debug\net8.0\ref\SeboDoGomesFinal.dll

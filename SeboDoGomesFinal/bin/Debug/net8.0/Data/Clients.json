@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "felipe",
+    "Cpf": "334434",
+    "Rentals": [
+      {
+        "Name": "Dom Casmurro",
+        "Writer": {
+          "FullName": "Machado de Assis",
+          "Nacionality": "Brasileiro",
+          "BirthDay": "1839-06-21T00:00:00"
+        },
+        "ReleaseDate": "1899-01-01T00:00:00",
+        "Pages": 400,
+        "Publisher": "Companhia das Letras",
+        "IsAvailable": false
+      }
+    ]
+  },
+  {
+    "Name": "ana",
+    "Cpf": "87999",
+    "Rentals": []
+  }
+]
